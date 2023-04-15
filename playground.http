@@ -1,0 +1,7 @@
+POST https://adf7-125-165-107-150.ngrok-free.app/api/midtrans-callback
+Accept: application/json
+Content-Type: application/json
+
+{
+    "name": "sam"
+}
